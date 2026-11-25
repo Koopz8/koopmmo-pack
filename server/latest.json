@@ -1,0 +1,7 @@
+{
+  "version": "0.76.0",
+  "jar": "KoopMMO-0.76.0.jar",
+  "sha1": "e1f172d026378f6aee7db10f1e5de15f8321e920",
+  "restart": "manual",
+  "notes": "Restarts and self-updates: /mmo update, /mmo restart, /mmo shutdown, auto-restart after a crash."
+}
