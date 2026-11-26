@@ -1,8 +1,8 @@
 {
-  "version": "0.80.0",
-  "jar": "KoopMMO-0.80.0.jar",
-  "sha1": "c92c30887001c7093a286b6613abedbebd908d3f",
+  "version": "0.81.0",
+  "jar": "KoopMMO-0.81.0.jar",
+  "sha1": "0aa37f8e3db8d8082de3251f447cfe34e357e94a",
   "restart": "now",
   "countdown": 120,
-  "notes": "Combat update: you land most hits now (misses graze), crits and combos, elite monsters with traits and loot, and zombies/skeletons/spiders have moves you can dodge. Includes the update-check fix (checks every 5 minutes)."
+  "notes": "Storage vault: 360 more double chests under the storage hall for the sorter. Run /mmo backup then /mmo base add storage2 confirm once, then press the tidy button."
 }
