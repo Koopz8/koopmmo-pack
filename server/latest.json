@@ -1,8 +1,8 @@
 {
-  "version": "0.81.0",
-  "jar": "KoopMMO-0.81.0.jar",
-  "sha1": "0aa37f8e3db8d8082de3251f447cfe34e357e94a",
+  "version": "0.82.0",
+  "jar": "KoopMMO-0.82.0.jar",
+  "sha1": "1d20e3a1d77320b2b6f6c53ef3ef372d58fd4123",
   "restart": "now",
   "countdown": 120,
-  "notes": "Storage vault: 360 more double chests under the storage hall for the sorter. Run /mmo backup then /mmo base add storage2 confirm once, then press the tidy button."
+  "notes": "HUD fix: the HP and prayer bars no longer vanish when you attack."
 }
