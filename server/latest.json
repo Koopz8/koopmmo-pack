@@ -1,7 +1,7 @@
 {
-  "version": "0.76.0",
-  "jar": "KoopMMO-0.76.0.jar",
-  "sha1": "e1f172d026378f6aee7db10f1e5de15f8321e920",
-  "restart": "manual",
-  "notes": "Restarts and self-updates: /mmo update, /mmo restart, /mmo shutdown, auto-restart after a crash."
+  "version": "0.77.0",
+  "jar": "KoopMMO-0.77.0.jar",
+  "sha1": "3ab0d56674046fb141bd7bc004e236723b375ad1",
+  "restart": "when-empty",
+  "notes": "The storage hall sorts itself: deposit chest, category chests with fill signs, tidy button and /base sort. Run /mmo base add sorter confirm once after the update."
 }
