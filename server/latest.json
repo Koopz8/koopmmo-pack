@@ -1,8 +1,8 @@
 {
-  "version": "0.78.0",
-  "jar": "KoopMMO-0.78.0.jar",
-  "sha1": "612d4471579a0fee22ccba972fc0ca830e016f7d",
+  "version": "0.79.0",
+  "jar": "KoopMMO-0.79.0.jar",
+  "sha1": "af7a153bf4c2f04d69baf3ec5920f1a0760c5e29",
   "restart": "now",
   "countdown": 120,
-  "notes": "The owner's Royal crown (gold, gems, shimmer) in /wardrobe. Includes 0.77's storage sorter: run /mmo base add sorter confirm once if you haven't."
+  "notes": "Grand spawn: run /mmo backup then /mmo buildspawn confirm once to build it (/mmo buildspawn classic confirm puts the old hub back). Includes 0.77's storage sorter and 0.78's Royal crown."
 }
