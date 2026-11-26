@@ -1,8 +1,8 @@
 {
-  "version": "0.82.0",
-  "jar": "KoopMMO-0.82.0.jar",
-  "sha1": "1d20e3a1d77320b2b6f6c53ef3ef372d58fd4123",
-  "restart": "now",
+  "version": "0.83.0",
+  "jar": "KoopMMO-0.83.0.jar",
+  "sha1": "36e78cb26a7b68153fb162d4122ecd91f29dac26",
+  "restart": "when-empty",
   "countdown": 120,
-  "notes": "HUD fix: the HP and prayer bars no longer vanish when you attack."
+  "notes": "Base services: item finder, storage crafting table, farm pipes, restock station, base pads, garden harvest, status board and a bank vault. Admin: /mmo base add qol confirm and /mmo base add pads confirm."
 }
