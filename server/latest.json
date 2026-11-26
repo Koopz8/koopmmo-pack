@@ -1,7 +1,8 @@
 {
-  "version": "0.76.0",
-  "jar": "KoopMMO-0.76.0.jar",
-  "sha1": "e1f172d026378f6aee7db10f1e5de15f8321e920",
-  "restart": "manual",
-  "notes": "Restarts and self-updates: /mmo update, /mmo restart, /mmo shutdown, auto-restart after a crash."
+  "version": "0.79.0",
+  "jar": "KoopMMO-0.79.0.jar",
+  "sha1": "af7a153bf4c2f04d69baf3ec5920f1a0760c5e29",
+  "restart": "now",
+  "countdown": 120,
+  "notes": "Grand spawn: run /mmo backup then /mmo buildspawn confirm once to build it (/mmo buildspawn classic confirm puts the old hub back). Includes 0.77's storage sorter and 0.78's Royal crown."
 }
