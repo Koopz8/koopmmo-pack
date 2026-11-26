@@ -1,7 +1,8 @@
 {
-  "version": "0.77.0",
-  "jar": "KoopMMO-0.77.0.jar",
-  "sha1": "3ab0d56674046fb141bd7bc004e236723b375ad1",
-  "restart": "when-empty",
-  "notes": "The storage hall sorts itself: deposit chest, category chests with fill signs, tidy button and /base sort. Run /mmo base add sorter confirm once after the update."
+  "version": "0.78.0",
+  "jar": "KoopMMO-0.78.0.jar",
+  "sha1": "612d4471579a0fee22ccba972fc0ca830e016f7d",
+  "restart": "now",
+  "countdown": 120,
+  "notes": "The owner's Royal crown (gold, gems, shimmer) in /wardrobe. Includes 0.77's storage sorter: run /mmo base add sorter confirm once if you haven't."
 }
