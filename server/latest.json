@@ -1,8 +1,8 @@
 {
-  "version": "0.79.0",
-  "jar": "KoopMMO-0.79.0.jar",
-  "sha1": "af7a153bf4c2f04d69baf3ec5920f1a0760c5e29",
+  "version": "0.80.0",
+  "jar": "KoopMMO-0.80.0.jar",
+  "sha1": "c92c30887001c7093a286b6613abedbebd908d3f",
   "restart": "now",
   "countdown": 120,
-  "notes": "Grand spawn: run /mmo backup then /mmo buildspawn confirm once to build it (/mmo buildspawn classic confirm puts the old hub back). Includes 0.77's storage sorter and 0.78's Royal crown."
+  "notes": "Combat update: you land most hits now (misses graze), crits and combos, elite monsters with traits and loot, and zombies/skeletons/spiders have moves you can dodge. Includes the update-check fix (checks every 5 minutes)."
 }
