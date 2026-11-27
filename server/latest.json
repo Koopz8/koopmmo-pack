@@ -1,8 +1,8 @@
 {
-  "version": "0.83.0",
-  "jar": "KoopMMO-0.83.0.jar",
-  "sha1": "36e78cb26a7b68153fb162d4122ecd91f29dac26",
+  "version": "0.84.0",
+  "jar": "KoopMMO-0.84.0.jar",
+  "sha1": "4851259ef692c3bb733c189faeffbb6e1e01bd97",
   "restart": "when-empty",
   "countdown": 120,
-  "notes": "Base services: item finder, storage crafting table, farm pipes, restock station, base pads, garden harvest, status board and a bank vault. Admin: /mmo base add qol confirm and /mmo base add pads confirm."
+  "notes": "Base showpieces: 5x5 vault door, sorting tube, day/night windows and lamps, trophy hall, fountain courtyard. Admin: /mmo backup, then /mmo base add all confirm."
 }
