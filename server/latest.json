@@ -1,8 +1,8 @@
 {
-  "version": "0.84.0",
-  "jar": "KoopMMO-0.84.0.jar",
-  "sha1": "4851259ef692c3bb733c189faeffbb6e1e01bd97",
+  "version": "0.84.1",
+  "jar": "KoopMMO-0.84.1.jar",
+  "sha1": "a97dc340a11acb94fc24307e07a4b1dc8c6b3e29",
   "restart": "when-empty",
   "countdown": 120,
-  "notes": "Base showpieces: 5x5 vault door, sorting tube, day/night windows and lamps, trophy hall, fountain courtyard. Admin: /mmo backup, then /mmo base add all confirm."
+  "notes": "Vault door now opens and shuts block by block, piston style, with a clunk on every step."
 }
