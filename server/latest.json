@@ -1,8 +1,8 @@
 {
-  "version": "0.88.0",
-  "jar": "KoopMMO-0.88.0.jar",
-  "sha1": "a9413b627ad5026789695a9382f3d2c571cd96c7",
+  "version": "0.89.0",
+  "jar": "KoopMMO-0.89.0.jar",
+  "sha1": "7ed6b1fb935682ec511df4715c8171e92f662b4d",
   "restart": "when-empty",
   "countdown": 120,
-  "notes": "Polish round 2: wild monsters have regional and tier names (Bog zombie, Grave skeleton, Ancient skeleton) and wear visible gear further out, deaths say who got you and their level, NPCs have far more to say, the shop buys 10 with shift-click, quests and towns give better feedback, and returning players get a welcome back."
+  "notes": "Polish round 2, bosses: every boss now gets an intro card, talks to you (in chat and in a bubble over its head), and ends with a victory card showing your fight time and personal best. Dragons taunt on first hit and when enraged, Captain Barnacle has new lines, dungeon bosses speak when they rise, enrage and fall, and raid bosses get intro cards."
 }
