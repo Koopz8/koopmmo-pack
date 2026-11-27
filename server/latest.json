@@ -1,8 +1,8 @@
 {
-  "version": "0.85.0",
-  "jar": "KoopMMO-0.85.0.jar",
-  "sha1": "c8d33b1363bc70b27071d056de31168d7df8ee06",
+  "version": "0.86.0",
+  "jar": "KoopMMO-0.86.0.jar",
+  "sha1": "9e57fe7ac8acd5b4d7a5373eb3893c552bed3f7d",
   "restart": "when-empty",
   "countdown": 120,
-  "notes": "Tavern life: brew ales, cider, mead and more in barrels; light a pipe; dice, darts, arm wrestling and drinking contests at the inns; bard nights and the pub crawl."
+  "notes": "The Nether Keep: a fortress in the nether behind the portal room's portal, with a barter hall, strider stable, storage link, brewing lab, fungus garden, forge, fire shrine and a farm wing (blaze, wither skeleton, magma cube, ghast, quartz) piped to storage."
 }
