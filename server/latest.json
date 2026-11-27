@@ -1,8 +1,8 @@
 {
-  "version": "0.84.1",
-  "jar": "KoopMMO-0.84.1.jar",
-  "sha1": "a97dc340a11acb94fc24307e07a4b1dc8c6b3e29",
+  "version": "0.85.0",
+  "jar": "KoopMMO-0.85.0.jar",
+  "sha1": "c8d33b1363bc70b27071d056de31168d7df8ee06",
   "restart": "when-empty",
   "countdown": 120,
-  "notes": "Vault door now opens and shuts block by block, piston style, with a clunk on every step."
+  "notes": "Tavern life: brew ales, cider, mead and more in barrels; light a pipe; dice, darts, arm wrestling and drinking contests at the inns; bard nights and the pub crawl."
 }
