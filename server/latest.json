@@ -1,8 +1,8 @@
 {
-  "version": "0.87.0",
-  "jar": "KoopMMO-0.87.0.jar",
-  "sha1": "49628e2b34f8d7d1e392c6a498e3a89b02fa2a93",
+  "version": "0.88.0",
+  "jar": "KoopMMO-0.88.0.jar",
+  "sha1": "a9413b627ad5026789695a9382f3d2c571cd96c7",
   "restart": "when-empty",
   "countdown": 120,
-  "notes": "Polish pass: pets follow at a comfy distance (no more clipping into you), drift around you when you stand still, follow you through tunnels, have their own voices and idle life, love being petted, and can be named (/pets name). NPCs turn to look at you, greet you and talk in speech bubbles, sometimes about you, the time or the weather. Rare ores, yew/magic logs, gems, big fish and herb harvests feel better."
+  "notes": "Polish round 2: wild monsters have regional and tier names (Bog zombie, Grave skeleton, Ancient skeleton) and wear visible gear further out, deaths say who got you and their level, NPCs have far more to say, the shop buys 10 with shift-click, quests and towns give better feedback, and returning players get a welcome back."
 }
